@@ -36,3 +36,14 @@
 
 //     return 0;
 // }
+
+// #include <stdio.h>
+
+// int main()
+// {
+//     for (int i = -4; i < count; i++)
+//     {
+//         /* code */
+//     }
+    
+// }

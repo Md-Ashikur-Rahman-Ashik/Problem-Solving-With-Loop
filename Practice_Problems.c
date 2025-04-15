@@ -16,3 +16,23 @@
 
 //     return 0;
 // }
+
+// #include <stdio.h>
+
+// int main()
+// {
+//     int i = -3;
+
+//     while (i <= 0)
+//     {
+//         /* code */
+//         for (int j = 0; j < 5; j++)
+//         {
+//             /* code */
+//             printf("#");
+//         }
+//         i--;
+//     }
+
+//     return 0;
+// }
